@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Secret Base -Kimiga Kuretamono",
+  "base_artist": "ZONE",
+  "createdAt": "2026-02-16T15:19:18.095657Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Secret Base -Kimiga Kuretamono",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/01_Secret_Base_-Kimiga_Kuretamono_ZONE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Secret Base Kimiga Kuretamono",
+      "artist": "Tsuyu",
+      "has_synced": false,
+      "path": "select/02_Secret_Base_Kimiga_Kuretamono_Tsuyu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Secret Base -Kimiga Kuretamono-",
+      "artist": "Yomii",
+      "has_synced": true,
+      "path": "select/03_Secret_Base_-Kimiga_Kuretamono-_Yomii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Secret Base - Kimiga Kuretamono",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/04_Secret_Base_-_Kimiga_Kuretamono_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Secret Base Kimiga Kuretamono",
+      "artist": "carnivalxenon",
+      "has_synced": false,
+      "path": "select/05_Secret_Base_Kimiga_Kuretamono_carnivalxenon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Secret Base Kimiga Kuretamono [From anime \"Anohana:TheFlowerWeSawThatDay\"] [Originally Performed by Zone]",
+      "artist": "Isa",
+      "has_synced": false,
+      "path": "select/06_Secret_Base_Kimiga_Kuretamono_[From_anime__Anohana_TheFlowerWeSawThatDay_]_[Orig_Isa.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Secret Base Kimiga Kuretamono (ED/AnoHana: The Flower We Saw That Day)",
+      "artist": "AIYUKI",
+      "has_synced": true,
+      "path": "select/07_Secret_Base_Kimiga_Kuretamono_(ED_AnoHana__The_Flower_We_Saw_That_Day)_AIYUKI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Secret Base ～君がくれたもの～",
+      "artist": "ZONE",
+      "has_synced": false,
+      "path": "select/pl_01_Secret_Base_~君がくれたもの~_ZONE.txt"
+    }
+  ]
+}
